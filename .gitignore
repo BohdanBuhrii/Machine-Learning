@@ -1,3 +1,7 @@
+# Large files
+large/
+
+# Jupyter Notebook
 MANIFEST
 build
 dist
