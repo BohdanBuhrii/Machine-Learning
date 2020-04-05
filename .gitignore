@@ -1,6 +1,9 @@
 # Large files
 large/
 
+# Visual Studio Code
+.vscode/
+
 # Jupyter Notebook
 MANIFEST
 build
